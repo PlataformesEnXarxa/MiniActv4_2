@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MinActivitat4_2</string>
+    <string name="download_web_page">Download web page</string>
+    <string name="download_image">Download Image</string>
+    <string name="lost_connection">Lost Connection</string>
+    <string name="mobile_connected">Mobile Connected</string>
+    <string name="wifi_connected">Wifi Connected</string>
+    <string name="pagina_web_a_consultar">http://www.eps.udl.cat/</string>
+    <string name="Image">http://www.mayoff.com/5-01cablecarDCP01934.jpg</string>
+</resources>
